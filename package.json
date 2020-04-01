@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate-mern-stack-master",
+  "version": "1.0.0",
+  "description": "Hello, My Friends   Thank you for Having interest in this repository !",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
